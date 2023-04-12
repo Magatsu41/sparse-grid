@@ -80,4 +80,4 @@ Contributions are welcome! Feel free to submit pull requests or issues on the [G
 
 ## License
 
-Sparse Grid is licensed under the [MIT License](https://opensource.org/license/mit/). See ==LICENSE== for more information.
+Sparse Grid is licensed under the [MIT License](https://opensource.org/license/mit/). See **LICENSE** for more information.
