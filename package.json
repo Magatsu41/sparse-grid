@@ -1,0 +1,28 @@
+{
+  "name": "sparse-grid",
+  "version": "1.0.0",
+  "description": "SparseGrid is a lightweight JavaScript library for working with sparse 2D arrays",
+  "main": "sparse-grid.js",
+  "type": "module",
+  "source": "./",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Magatsu41/sparse-grid.git"
+  },
+  "keywords": [
+    "javascript",
+    "js",
+    "grid",
+    "table",
+    "cells"
+  ],
+  "author": "Magatsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Magatsu41/sparse-grid/issues"
+  },
+  "homepage": "https://github.com/Magatsu41/sparse-grid#readme"
+}
