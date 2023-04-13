@@ -1,6 +1,6 @@
 {
   "name": "sparse-grid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "SparseGrid is a lightweight JavaScript library for working with sparse 2D arrays",
   "main": "sparse-grid.js",
   "type": "module",
