@@ -23,7 +23,7 @@ You can install Sparse Grid via [npm](https://www.npmjs.com/package/sparse-grid)
 To create a Sparse Grid, you can use the **SparseGrid** constructor:
 
 `
-    const SparseGrid = require('sparse-grid');
+    import SparseGrid from 'sparse-grid';
 `
 
 `
